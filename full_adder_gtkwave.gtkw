@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Tue May  4 16:09:05 2021
+[*]
+[dumpfile] "/home/rafia/verilogm/test.vcd"
+[dumpfile_mtime] "Tue May  4 16:06:00 2021"
+[dumpfile_size] 570
+[savefile] "/home/rafia/Desktop/verilog  codes/full_adder_gtkwave.gtkw"
+[timestart] 2730
+[size] 1208 736
+[pos] -39 -39
+*-13.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] full_adder_tb.
+[sst_width] 233
+[signals_width] 86
+[sst_expanded] 1
+[sst_vpaned_height] 191
+@29
+full_adder_tb.full_adder1.a
+@28
+full_adder_tb.full_adder1.b
+full_adder_tb.full_adder1.cin
+full_adder_tb.full_adder1.cout
+full_adder_tb.full_adder1.sum
+full_adder_tb.a_tb
+full_adder_tb.b_tb
+full_adder_tb.cin_tb
+full_adder_tb.cout_tb
+full_adder_tb.sum_tb
+[pattern_trace] 1
+[pattern_trace] 0
